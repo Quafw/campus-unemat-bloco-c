@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se utilizar esta versão em um trabalho, cite o software e consulte o artigo associado em docs/TCC.md."
+title: "Campus UNEMAT Bloco C: visita virtual em Windows PCVR"
+authors:
+  - family-names: Alves
+    given-names: Matheus Gomes de Souza
+    orcid: "https://orcid.org/0009-0006-8683-8462"
+type: software
+version: 1.0.0
+date-released: 2026-11-20
+url: "https://github.com/Quafw/campus-unemat-bloco-c"
+abstract: >-
+  Aplicação acadêmica de navegação imersiva no Bloco C do Campus Universitário
+  de Barra do Bugres da UNEMAT. A versão Windows PCVR oferece visita virtual,
+  totens institucionais, mapa, teleporte e interações com objetos do ambiente.
+keywords:
+  - realidade virtual
+  - campus universitário
+  - navegação imersiva
+  - PCVR

@@ -1,0 +1,65 @@
+THIRD-PARTY NOTICES: Campus UNEMAT Bloco C
+Windows PCVR, Unity 6000.6.7f1
+
+Esta distribuição executável inclui componentes de terceiros. Seus respectivos direitos e licenças permanecem com os titulares.
+
+Os textos de licença e atribuição acompanham este arquivo no diretório ThirdPartyNotices/.
+Unity e seus componentes proprietários continuam sujeitos aos termos aplicáveis da Unity. Os avisos dos pacotes indicam os termos aplicáveis a cada componente.
+OpenXR/glTFast: Apache-2.0, com termos completos em ThirdPartyNotices/Common/Apache-2.0.txt.
+Newtonsoft.Json e .NET: avisos MIT nos diretórios correspondentes.
+Mãos UltimateXR: copyright (c) 2022 VRMADA, MIT.
+Liberation Sans: SIL Open Font License 1.1; manter copyright e licença.
+Burst: termos Unity e avisos de terceiros, incluindo LLVM com suas exceções.
+
+Índice dos textos preservados:
+- ThirdPartyNotices/com.unity.2d.animation-16.0.1/LICENSE.md
+- ThirdPartyNotices/com.unity.2d.animation-16.0.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.2d.common-15.0.0/LICENSE.md
+- ThirdPartyNotices/com.unity.2d.common-15.0.0/Third Party Notices.md
+- ThirdPartyNotices/com.unity.2d.pixel-perfect-6.0.0/LICENSE.md
+- ThirdPartyNotices/com.unity.2d.spriteshape-16.0.0/LICENSE.md
+- ThirdPartyNotices/com.unity.2d.spriteshape-16.0.0/Third Party Notices.md
+- ThirdPartyNotices/com.unity.2d.tilemap.extras-9.0.1/LICENSE.md
+- ThirdPartyNotices/com.unity.2d.tilemap.extras-9.0.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.cinemachine-6.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.cinemachine-6.6.0/license.txt
+- ThirdPartyNotices/com.unity.cinemachine-6.6.0/Third Party Notices.md
+- ThirdPartyNotices/com.unity.cloud.gltfast-6.20.0/LICENSE.md
+- ThirdPartyNotices/com.unity.collections-6.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.inputsystem-1.20.1/LICENSE.md
+- ThirdPartyNotices/com.unity.learn.iet-framework-6.0.7/LICENSE.md
+- ThirdPartyNotices/com.unity.learn.iet-framework-6.0.7/Third Party Notices.md
+- ThirdPartyNotices/com.unity.mathematics-1.4.0/LICENSE.md
+- ThirdPartyNotices/com.unity.memoryprofiler-1.1.12/LICENSE.md
+- ThirdPartyNotices/com.unity.nuget.newtonsoft-json-3.2.2/LICENSE.md
+- ThirdPartyNotices/com.unity.nuget.newtonsoft-json-3.2.2/Third Party Notices.md
+- ThirdPartyNotices/com.unity.pipeline-0.8.0-exp.1/LICENSE.md
+- ThirdPartyNotices/com.unity.pipeline-0.8.0-exp.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.profiling.core-1.0.3/LICENSE.md
+- ThirdPartyNotices/com.unity.render-pipelines.core-17.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.render-pipelines.core-17.6.0/THIRD PARTY NOTICES.md
+- ThirdPartyNotices/com.unity.render-pipelines.universal-config-17.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.render-pipelines.universal-17.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.render-pipelines.universal-17.6.0/Third Party Notices.md
+- ThirdPartyNotices/com.unity.shadergraph-17.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.splines-2.9.1/LICENSE.md
+- ThirdPartyNotices/com.unity.ugui-2.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.arfoundation-6.6.2/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.compositionlayers-2.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.core-utils-2.6.0/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.interaction.toolkit-3.6.1/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.interaction.toolkit-3.6.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.xr.legacyinputhelpers-3.0.1/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.legacyinputhelpers-3.0.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.xr.management-4.7.0/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.meta-openxr-2.6.1/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.meta-openxr-2.6.1/Third Party Notices.md
+- ThirdPartyNotices/com.unity.xr.openxr-1.18.0/LICENSE.md
+- ThirdPartyNotices/com.unity.xr.openxr-1.18.0/Third Party Notices.md
+- ThirdPartyNotices/Burst-Unity-6000.6.7f1/LICENSE.md
+- ThirdPartyNotices/Burst-Unity-6000.6.7f1/Third Party Notices.md
+- ThirdPartyNotices/IL2CPP-dotnet-MIT/LICENSE.txt
+- ThirdPartyNotices/UltimateXRHands-MIT/LICENSE.txt
+- ThirdPartyNotices/UltimateXRHands-MIT/ATTRIBUTION.txt
+- ThirdPartyNotices/LiberationSans-OFL/LiberationSans - OFL.txt
+- ThirdPartyNotices/Common/Apache-2.0.txt

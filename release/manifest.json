@@ -1,0 +1,456 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-11-20",
+  "build_date": "2026-11-19",
+  "platform": "Windows x64 PCVR",
+  "engine": "Unity 6000.6.7f1",
+  "archive": {
+    "name": "Campus-UNEMAT-Bloco-C-Windows-PCVR-v1.0.0.zip",
+    "bytes": 341581391,
+    "sha256": "eccd6166f06ab77bfb4cee8271a658ea6ab989043fd734226a0be8c1a2e195e8",
+    "download_url": "https://github.com/Quafw/campus-unemat-bloco-c/releases/download/v1.0.0/Campus-UNEMAT-Bloco-C-Windows-PCVR-v1.0.0.zip"
+  },
+  "original_player_files_verified": 34,
+  "files": [
+    {
+      "path": "baselib.dll",
+      "bytes": 239528,
+      "sha256": "3ce2b2e1c4cd0b5f34837fc01aa0d66459ce66070886d9d55c65c6b0d26d2777"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C.exe",
+      "bytes": 667136,
+      "sha256": "5b07fac308f6a9efa99f0c5ca71bfd770c882d561d8fe0170d2fb3711182e795"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/app.info",
+      "bytes": 25,
+      "sha256": "5c17e6377ade6f3bb2922860ac38be12eaaff2eb9218820e2da8dd6da42dbd15"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/boot.config",
+      "bytes": 294,
+      "sha256": "fb14d55e3d2e2d58605168938b28e28abef6b4f62f207a9cc3326ddc4fc4358c"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/globalgamemanagers",
+      "bytes": 271700,
+      "sha256": "16ac80b86810072af25043198b89f6b51b0afb4f8a1bcfaf53e34957ed8120af"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/globalgamemanagers.assets",
+      "bytes": 973048,
+      "sha256": "2f0e4158208673a64c82619f912fb04296170079f770932be2e6657a01f20264"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/globalgamemanagers.assets.resS",
+      "bytes": 2816736,
+      "sha256": "fa17cbffcba886c81d7e30fbb839bcb97932cedb8b38686ab06cc2c1e8cb4c99"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "bytes": 11616606,
+      "sha256": "420c8e6337e34772824b4c335d899b0906992936c9ddfaac1b109cb8584b12ca"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "bytes": 337563,
+      "sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/level0",
+      "bytes": 3673780,
+      "sha256": "c78c77b5d59e6b2aa45ae9e6e9943f94c868a26b8567fb7011ec9ff3a61251e3"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/level0.resS",
+      "bytes": 133152,
+      "sha256": "0854f1fb0276b61f3e400cba86fdff34038fa8aed3ed0ba99ec8cf6d615d5a81"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Plugins/ARM64/XRSimulationSubsystem.dll",
+      "bytes": 214528,
+      "sha256": "51c128a0439f547b985298a9854adf93edea55776e12d86bc9536a2a110bf8ea"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "bytes": 766464,
+      "sha256": "d26177e151c05fa877643c3a8443afff0c7924005e785af473ba22992ff05741"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Plugins/x86_64/openxr_loader.dll",
+      "bytes": 2373632,
+      "sha256": "f7384429c16288d9c2c123acfca1e040c9cec6c5484a3f5a5107d6aa32ba57e8"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Plugins/x86_64/UnityOpenXR.dll",
+      "bytes": 919040,
+      "sha256": "a344bf5428d70d41e91bd36aa85677206a66224949f9c830d8ded4f1d612be66"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Plugins/x86_64/XRSimulationSubsystem.dll",
+      "bytes": 255488,
+      "sha256": "06b70e7830004e7f3d4f5a51ba15af0f3bfe884418b658f2c772b42e581765f7"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Resources/unity default resources",
+      "bytes": 5919584,
+      "sha256": "696b9afaee02b5d45978634f1450ef18423c19177933b997fd8ee364d70cdd61"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/Resources/unity_builtin_extra",
+      "bytes": 683604,
+      "sha256": "77847102af217a732f094d8c3e091b4f22f34e7b73f1b030008ae451d520061c"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/resources.assets",
+      "bytes": 1943896,
+      "sha256": "be4da7b5ca27bec16e9a430b7596002699e68f1aed82a336ffa6cce4af1180e9"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/resources.assets.resS",
+      "bytes": 3375104,
+      "sha256": "e072f2e2714b79dff97d68734e104e6eb403823935d73cb7c9fcf23fe25efcc8"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/RuntimeInitializeOnLoads.json",
+      "bytes": 19851,
+      "sha256": "2b4aef40571f5420bb72e0bc51628824f9cc042fbbb514ee682cfbf3d378b595"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/ScriptingAssemblies.json",
+      "bytes": 6243,
+      "sha256": "38fb81881343ddccece6b867284a4658662109d4cc2ea2c16a28541ee6d3a1c5"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/sharedassets0.assets",
+      "bytes": 100841152,
+      "sha256": "90ecf4c62bd443c1dbfba0b1b5f5507cfcbb99d7a8dae44e624ae4fc9d555a0a"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/sharedassets0.assets.resS",
+      "bytes": 662279232,
+      "sha256": "1425abeac479854aa93f0b146118302ee705f15f45a85d0ab54f31fa2c036234"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/sharedassets0.resource",
+      "bytes": 7664599,
+      "sha256": "a71d66f9f5f57b5f1c0ebc45495d430a7d7f4a3c7132b26a9257cbddf3002274"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/UnitySubsystems/libUnityARFoundationMeta/UnitySubsystemsManifest.json",
+      "bytes": 181,
+      "sha256": "1b948c6cf83c2b90b1e8f217d83ed17d8f4761702f6204e75dbeca698572aed2"
+    },
+    {
+      "path": "Campus UNEMAT Bloco C_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json",
+      "bytes": 250,
+      "sha256": "2528d0caa5fb4c4ea91ed74fb88315fca934158314bcec29d12fbeaac8e7cfd6"
+    },
+    {
+      "path": "D3D12/D3D12Core.dll",
+      "bytes": 4725304,
+      "sha256": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052"
+    },
+    {
+      "path": "dstorage.dll",
+      "bytes": 206904,
+      "sha256": "cae65787f61514bec6f012f44546e68b19e39d8854a9ab52af813370d44b272a"
+    },
+    {
+      "path": "dstoragecore.dll",
+      "bytes": 1482784,
+      "sha256": "cf85b19a92a8276f8baca0db9bbcd60735bad50768deb303d310e84d5f4fdd11"
+    },
+    {
+      "path": "GameAssembly.dll",
+      "bytes": 35819008,
+      "sha256": "bf41ef7a8f9269de97142cb4eec0d5e6fe5ada9618e5ffa0e12de2a5ee725b99"
+    },
+    {
+      "path": "INSTRUCOES.txt",
+      "bytes": 805,
+      "sha256": "dc88d51931b692dd931fe811f13450ec25c702f5b67d3d2e63346cc90b3010a1"
+    },
+    {
+      "path": "LEIA-ME.txt",
+      "bytes": 326,
+      "sha256": "aece032122c1defad597d085858f86284380091aaa094f578d498a2d757e3a52"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 1065,
+      "sha256": "e4be0b54e0f1653370bd566d76f228d59d223eefd629cf116ca70f085b340f68"
+    },
+    {
+      "path": "ThirdPartyNotices/Burst-Unity-6000.6.7f1/LICENSE.md",
+      "bytes": 608,
+      "sha256": "ac0d4bd5921b5683770ebc4dc95f0ee392a1bed5df14dc65667a27e3fb7d1f6d"
+    },
+    {
+      "path": "ThirdPartyNotices/Burst-Unity-6000.6.7f1/Third Party Notices.md",
+      "bytes": 29559,
+      "sha256": "01b366462da89d104fc7db01309b69de07cee05400ec429e2ea9e4c23fa5f085"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.animation-16.0.1/LICENSE.md",
+      "bytes": 452,
+      "sha256": "8fed8a73314ce7cbdb7e29f62c15aa59a423b338b1538d69f6c118b59cad30c7"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.animation-16.0.1/Third Party Notices.md",
+      "bytes": 2218,
+      "sha256": "6f02e6f1b16df2a0b1290b2631c1e9c242c351308d23f79449ffd836db86a2e5"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.common-15.0.0/LICENSE.md",
+      "bytes": 449,
+      "sha256": "675c5d9491e347cbbab1397047911590df8011babbe3827b8e284947a2ee8b32"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.common-15.0.0/Third Party Notices.md",
+      "bytes": 1261,
+      "sha256": "58a289404145a3b30c8c3bbc8f4807d3cbe495a72a5bc50896258e21f5506a4e"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.pixel-perfect-6.0.0/LICENSE.md",
+      "bytes": 456,
+      "sha256": "e76b6cdd3e7e39bea6f5612691458ceb4bcd924feebd8a9581067f7f73faac9c"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.spriteshape-16.0.0/LICENSE.md",
+      "bytes": 454,
+      "sha256": "a0098cf18acbd76b7de2dd4f5fe1aaacae9619577f1d998b48f11742ee2e8802"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.spriteshape-16.0.0/Third Party Notices.md",
+      "bytes": 1676,
+      "sha256": "5505b95620a9b8ec1e3311f750b123ad3546af19d71a54a646a4ea64cc38832f"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.tilemap.extras-9.0.1/LICENSE.md",
+      "bytes": 477,
+      "sha256": "51cbc11999e5f1b3ec83090660c69fa8c35e95fcf9ca807edd649c51ff0a16a5"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.2d.tilemap.extras-9.0.1/Third Party Notices.md",
+      "bytes": 18722,
+      "sha256": "d4de5998983f32c55c1ababdac898ce665cc67eab5cc5fdf3b2312898b597c15"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.cinemachine-6.6.0/LICENSE.md",
+      "bytes": 467,
+      "sha256": "d230a6127c9f61f68e34821e6cfb7f2e72a7d1dfe523a5e6da89e37ca5f9fa07"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.cinemachine-6.6.0/license.txt",
+      "bytes": 5725,
+      "sha256": "46ba23bc2197fa1c7ff5e35c2a5bb04861cdb6ac76a7b9197d776a30e56a3595"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.cinemachine-6.6.0/Third Party Notices.md",
+      "bytes": 1539,
+      "sha256": "b1d297db15dea9d4ba6f6c8487f3469677b1b27e615267092634e6e89c75fb4a"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.cloud.gltfast-6.20.0/LICENSE.md",
+      "bytes": 10780,
+      "sha256": "cccf2d7a6c705ec991d5229a775e7fbd41fa6de57d4e3f33bbecb967c3055ef9"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.collections-6.6.0/LICENSE.md",
+      "bytes": 448,
+      "sha256": "4947f647c031b0fec440237f8136386a606dd998089bb1df67316ee693f568f5"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.inputsystem-1.20.1/LICENSE.md",
+      "bytes": 510,
+      "sha256": "419718e59cd6c1f9c3ed80bd004394504bed368c23ad8665cce1792a33c8a02c"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.learn.iet-framework-6.0.7/LICENSE.md",
+      "bytes": 444,
+      "sha256": "6f96e049a8c2aaf9dded6e5a288ae627f97bc70cf9a04f31730ab75cfd8fdb4a"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.learn.iet-framework-6.0.7/Third Party Notices.md",
+      "bytes": 2501,
+      "sha256": "ab769b5ae1eec7fb1c4c6a32d5f4f684b42d198429af2c6a7a3a1db47418f60c"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.mathematics-1.4.0/LICENSE.md",
+      "bytes": 450,
+      "sha256": "5b1a26ff2ca6e6e7d9fd2b6df151e1a43c671fdf49c05dcee1227f20dcf25fde"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.memoryprofiler-1.1.12/LICENSE.md",
+      "bytes": 442,
+      "sha256": "d323cc119275440281a89cd6d2ae0863d7cb104497083ccc78ebe159ddb17d92"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.nuget.newtonsoft-json-3.2.2/LICENSE.md",
+      "bytes": 481,
+      "sha256": "a5177bfecfea04d225e4a26a631db86721a03b4080350867847e71dc26b44f85"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.nuget.newtonsoft-json-3.2.2/Third Party Notices.md",
+      "bytes": 4719,
+      "sha256": "f07d2ea4af53fd1c9800b345bb4fbfa3ab0181d8c87625d6c265cd65142df097"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.pipeline-0.8.0-exp.1/LICENSE.md",
+      "bytes": 517,
+      "sha256": "35d72abfdaec2a1a80a565885ef9a92f10f78de3266ce769f9a76c17c9c45dbf"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.pipeline-0.8.0-exp.1/Third Party Notices.md",
+      "bytes": 6892,
+      "sha256": "edb1f62b93337299b1c1f94282026d36b7da976f3201588bd772e6b0e7f2b3dd"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.profiling.core-1.0.3/LICENSE.md",
+      "bytes": 485,
+      "sha256": "33197414e7362ae534aeeab9ab6a9dfe0b5ca74b04f304805f592bcf667a5a99"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.render-pipelines.core-17.6.0/LICENSE.md",
+      "bytes": 491,
+      "sha256": "39691adc5fdaf614d951f53637e22501baf46fcc535a69ab8a21ebaa8b9e9cb4"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.render-pipelines.core-17.6.0/THIRD PARTY NOTICES.md",
+      "bytes": 3587,
+      "sha256": "fdfacc9a242bda05b26eace324033b467b7d70e83a2761cd03337b612affc339"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.render-pipelines.universal-17.6.0/LICENSE.md",
+      "bytes": 496,
+      "sha256": "4be520a425e06c8de56fa8aee1ce957cfe610406456278172a2d18b7c388c2cf"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.render-pipelines.universal-17.6.0/Third Party Notices.md",
+      "bytes": 1794,
+      "sha256": "0652509dfc81a1a3d9e037e59bd047b305155fc5c4abeef69e2fc078488035fd"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.render-pipelines.universal-config-17.6.0/LICENSE.md",
+      "bytes": 503,
+      "sha256": "fa2dcbc8ff967f49342c6c61854909ba4bbcc70b27f07d25538b8eaf7be5be3c"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.shadergraph-17.6.0/LICENSE.md",
+      "bytes": 481,
+      "sha256": "364b0c08b7fe15b70c4777dccb26fc21d02ae831c2f707dbe29879ac15ece353"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.splines-2.9.1/LICENSE.md",
+      "bytes": 467,
+      "sha256": "1de0a79eecd1732049e1110216f1ad735fec4e965a8a7b2fd2e63e339cbfb6c1"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.ugui-2.6.0/LICENSE.md",
+      "bytes": 431,
+      "sha256": "3f8833f9736c0b5db5076663ba5abb0a33606712fa9128456ac834fc9d43fdd6"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.arfoundation-6.6.2/LICENSE.md",
+      "bytes": 479,
+      "sha256": "6b6b4166164a5c547ee4e04a005c3f7d2880745a6e553a43aeaf1e7eddf7f093"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.compositionlayers-2.6.0/LICENSE.md",
+      "bytes": 603,
+      "sha256": "bf9b749e40266c2c0bddfbda49cf5bb25b368747765dcbb5704f6fd73efdc3e8"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.core-utils-2.6.0/LICENSE.md",
+      "bytes": 473,
+      "sha256": "729d2121f79da7d543602c8dbafe84779dcfdaa203156f3dac9bd0605c973818"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.interaction.toolkit-3.6.1/LICENSE.md",
+      "bytes": 479,
+      "sha256": "00fad8864c2208d6bfb6827af9bf0715530ec69cf3c408443e16a43efa695e1e"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.interaction.toolkit-3.6.1/Third Party Notices.md",
+      "bytes": 11841,
+      "sha256": "100eff46d4f29569d1eb85738dd86ac2ce4c4ea2e08f9bf6c784354e09f9f7b8"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.legacyinputhelpers-3.0.1/LICENSE.md",
+      "bytes": 487,
+      "sha256": "790db82033a60329a48311690da2335bce736add45f66666652d8153d43efb81"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.legacyinputhelpers-3.0.1/Third Party Notices.md",
+      "bytes": 815,
+      "sha256": "f21b4d545deb1225278bba935e7d9ee07cee5dcb447d3287ea0bd9c21b215e95"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.management-4.7.0/LICENSE.md",
+      "bytes": 483,
+      "sha256": "7a6f61c0a6481885ab097422dae29b53feabd8b490ece147c7b0620cb7943a04"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.meta-openxr-2.6.1/LICENSE.md",
+      "bytes": 594,
+      "sha256": "3cb8ad63d76fc782b4fb4bc85037c01591f08f79e99b4841cd512577c5caf032"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.meta-openxr-2.6.1/Third Party Notices.md",
+      "bytes": 1633,
+      "sha256": "a82c4545e58a0fc5b80e778bdaac4ef1cd1b8fa49e0a0ba04e9685e9450f97df"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.openxr-1.18.0/LICENSE.md",
+      "bytes": 594,
+      "sha256": "579ae5e666c4d955c1a0f6904d2fe9319d2bd94d38120fd1a50feb78ce87ce0f"
+    },
+    {
+      "path": "ThirdPartyNotices/com.unity.xr.openxr-1.18.0/Third Party Notices.md",
+      "bytes": 1136,
+      "sha256": "9eb9e8d5c757ce3e6c4748090444ea9854f6b9419727f559939fda2d4023da6b"
+    },
+    {
+      "path": "ThirdPartyNotices/Common/Apache-2.0.txt",
+      "bytes": 10407,
+      "sha256": "9ddc805d52a5cb61b9f4dd0d119898292134afc4e6f36a4eb2d5f49cb1bb5c82"
+    },
+    {
+      "path": "ThirdPartyNotices/IL2CPP-dotnet-MIT/LICENSE.txt",
+      "bytes": 1115,
+      "sha256": "ae48df11a335dc1a615f4f938b69cba73bcf4485c4f97af49b38efb0f216353b"
+    },
+    {
+      "path": "ThirdPartyNotices/LiberationSans-OFL/LiberationSans - OFL.txt",
+      "bytes": 4469,
+      "sha256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48"
+    },
+    {
+      "path": "ThirdPartyNotices/UltimateXRHands-MIT/ATTRIBUTION.txt",
+      "bytes": 812,
+      "sha256": "a9774f7188f6161496a6c2ef60e6e92a3d778f5759a83e76ac890b6d629a70d8"
+    },
+    {
+      "path": "ThirdPartyNotices/UltimateXRHands-MIT/LICENSE.txt",
+      "bytes": 1063,
+      "sha256": "0897294a1f03ec707245e1734112a21a97a63a00d756c4bc8b5e89134fd7ff54"
+    },
+    {
+      "path": "ThirdPartyNotices.txt",
+      "bytes": 4534,
+      "sha256": "71f4f0c2e89a30a5135e9cbc2e06383cf81e08588ad837619ef1e85587804895"
+    },
+    {
+      "path": "UnityCrashHandler64.exe",
+      "bytes": 1773992,
+      "sha256": "1fa31e3886ed0e706e661f34963845bdb4fa5662d49e4519ebc2b971fd1a4de5"
+    },
+    {
+      "path": "UnityPlayer.dll",
+      "bytes": 38724016,
+      "sha256": "f70af1c7714a96e031a06edd0e79a7d73e4a0542b748d1edac9e8e8e1509a310"
+    }
+  ]
+}

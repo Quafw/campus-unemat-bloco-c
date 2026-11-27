@@ -1,0 +1,9 @@
+# Os binários da aplicação são distribuídos pelas Releases.
+*.zip
+*.7z
+*.exe
+*.dll
+*_Data/
+.DS_Store
+Thumbs.db
+desktop.ini

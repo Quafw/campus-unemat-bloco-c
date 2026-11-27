@@ -1,0 +1,7 @@
+Hand art and poses: UltimateXR by VRMADA, MIT, copyright (c) 2022 VRMADA.
+Source: https://github.com/VRMADA/ultimatexr-unity
+Commit: 985f20cb845bf94fa6307b1a6f969ff25a432399
+License: LICENSE.txt
+Selected sources: Runtime/Art/Avatars/BigHands/BigHandLeftGeo.fbx, BigHandRightGeo.fbx, Textures/BigHandsTex_*, Materials/BigHandsSkinType3Mat_PBR.mat, HandPoses/GrabStandard.asset, Runtime/Shaders/Hands/Hand.shadergraph.
+Adaptations: standalone skin material without framework MonoBehaviour; 19 finger-bone rotations per hand extracted from GrabStandard Blend Open/Close and mapped to imported FBX names; XRI actions, prefab alignment and skinning bounds.
+Model, maps and shader unchanged. No UltimateXR C# framework installed. CampusControllerHand.cs uses the existing Unity Input System; OpenXR/XRI remain in use.
